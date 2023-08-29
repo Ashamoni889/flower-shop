@@ -1,0 +1,44 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+/* heading section style */
+.header{
+    background: rgba(229, 84, 115, 0.10);
+    height: 850px;
+}
+.banner{
+    padding:70px 230px;
+    display:flex;
+    gap:150px;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-title{
+color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 5px;
+}
+.banner-section{
+    max-width: 600px;
+}
+.banner-content{
+color: rgba(39, 39, 39, 0.60);
+font-size: 10px;
+font-weight: 400;
+/* margin-top: 5px; */
+}
+.btn-primary{
+color: #FFF;
+border-radius: 8px;
+background: #E55473;
+padding:15px;
+border:0;
+font-size: 20px;
+font-weight: 700;
+margin-top:5px;
+}
+.banner-pic{
+     width: 620px; 
+}
