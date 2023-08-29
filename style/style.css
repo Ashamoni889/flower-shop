@@ -150,6 +150,7 @@ font-weight: 400;
 .input-section{
     background-image: url('../images/Rectangle\ 9.png');
     background-repeat: no-repeat;
+    margin-bottom: 50px;
     /* margin: 5px 240px; */
     /* width: 100%; */
     /* padding: 0px 200px 0px 200px; */
